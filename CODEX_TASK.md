@@ -7,7 +7,7 @@ Use the accepted project PDF:
 - `sap_business_plan_v1_0.pdf`
 
 ## Deliverables
-Create these files in the repo root:
+Create these files in the repo "out" folder:
 - `sap_business_plan_v1_0.md`
 - `build_sap_business_plan_pdf.sh`
 
