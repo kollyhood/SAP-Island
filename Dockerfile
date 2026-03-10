@@ -13,4 +13,4 @@ RUN chmod +x build_sap_business_plan_pdf.sh
 RUN ./build_sap_business_plan_pdf.sh
 
 EXPOSE 3000
-CMD ["python3", "-m", "http.server", "8080", "--directory", "/app/out"]
+CMD ["python3", "-m", "http.server", "3000", "--directory", "/app/out"]
