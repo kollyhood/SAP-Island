@@ -111,4 +111,4 @@ The key investment point is simple: this capital is not being used to prop up a 
 
 ## Bottom line
 
-This is an investable ladder-up business: the market is proven, the revenue streams are established, the team already has customer access, and the first account can become the platform for broader growth.
+This is an investable ladder-up business: the market is proven, the revenue streams are established, the team already has customer access, and the first account can become the platform for broader growth. Ok 
