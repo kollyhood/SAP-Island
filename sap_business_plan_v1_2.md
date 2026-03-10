@@ -1,6 +1,28 @@
-# SAP Channel Partner & Services Venture
-
-**Business Plan v1.2 | Prepared by Sunder and Shaktivel**
+---
+title: ""
+author: ""
+date: ""
+fontsize: 10pt
+geometry: margin=0.7in
+linestretch: 1.02
+colorlinks: false
+header-includes:
+  - \usepackage{booktabs}
+  - \usepackage{longtable}
+  - \usepackage{array}
+  - \usepackage{fancyhdr}
+  - \usepackage{titlesec}
+  - \pagestyle{fancy}
+  - \fancyhf{}
+  - \fancyhead[L]{SAP Channel Partner \& Services Venture | Business Plan v1.2}
+  - \fancyhead[R]{Page \thepage}
+  - \setlength{\headheight}{14pt}
+  - \renewcommand{\arraystretch}{1.15}
+  - \titlespacing*{\section}{0pt}{8pt}{4pt}
+  - \titlespacing*{\subsection}{0pt}{6pt}{3pt}
+  - \titleformat{\section}{\normalsize\bfseries}{\thesection.}{0.5em}{}
+  - \titleformat{\subsection}{\normalsize\bfseries}{\thesubsection.}{0.5em}{}
+---
 
 \begin{center}
 3 active leads \quad 1 near-close opportunity \quad 4 revenue engines \quad 10-member visible team
