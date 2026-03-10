@@ -145,3 +145,53 @@ The business can be tracked through a small set of operating metrics that matter
 
 > **Bottom line**  
 > This is an investable ladder-up business: the market is proven, the revenue streams are established, the team already has customer access, and the first account can become the platform for broader growth. The added rental and promotion disclosures strengthen the operating case without changing the underlying model.
+\newpage
+
+# Investor Addendum
+
+**Business Plan v1.2 | Addendum on Partner Onboarding Path**
+
+## 10. Partner Onboarding Path and Pre-License Revenue Bridge
+
+This addendum records management's current understanding of the SAP channel-partner onboarding path in India and explains why the first 90 days require capital readiness even before formal partner approval is complete.
+
+\begin{center}
+\small
+\makebox[\textwidth][c]{Approx.\ 3 months \hspace{1em} 10 consultants \hspace{1em} Certification-led hiring \hspace{1em} Rs.\ 3,00,000 refundable deposit}
+\end{center}
+
+\vspace{0.6em}
+
+### Structured onboarding sequence
+
+1. **Business registration**  
+   Set up the legal entity and operating structure required to enter the SAP ecosystem formally.
+
+2. **Consultant profile submission**  
+   Share named consultant profiles with SAP as part of the expression of interest and capability-signaling process.
+
+3. **Build visible delivery capacity**  
+   Hire at least 10 consultants across relevant functional and technical modules so SAP and customers can see real delivery readiness.
+
+4. **Certification after hiring**  
+   Each hired consultant is expected to move through the required certification path, strengthening partner credibility.
+
+5. **Premises and team validation**  
+   SAP leadership may visit the office and evaluate the working team, facility readiness, and seriousness of operations.
+
+6. **Acceptance and refundable deposit**  
+   On successful review, SAP may approve the application and ask for remittance of a refundable deposit of Rs. 3,00,000.
+
+### Commercial relevance during the onboarding window
+
+- The full process is expected to take about three months, which means capital must support hiring, certifications, office readiness, and partner-process compliance before formal partner status is activated.
+- This period is not dead time. The consulting team can still take up change-request assignments and AMC work during the ramp-up period, creating early billable utilization and market proof even before the channel-partner badge is formally granted.
+- That bridge is strategically important: it reduces idle burn, keeps the team productive, and helps demonstrate that the venture can convert capability into cash flow while the formal partner process runs its course.
+
+### Why the investor should care
+
+The first 90 days should be viewed as an operating-readiness and credibility-building phase, not as a waiting period. Upfront funding is required because team visibility, certifications, office readiness, and deposit commitments are gating items for entry. At the same time, AMC and change-request work can partially offset burn and validate the delivery engine before channel approval is fully completed.
+
+### Presentation note
+
+This page reflects management's current process understanding and should be treated as an operating-assumption note for the investor. Exact SAP review steps, local prerequisites, and deposit mechanics can vary by program, entity type, and SAP's approval process.
