@@ -27,7 +27,7 @@ Create these files in the repo root:
 
 ## Build command
 ```bash
-python /home/oai/skills/pdfs/scripts/md_to_pdf.py sap_business_plan_v1_0.md -o sap_business_plan_v1_0_from_markdown.pdf --pdf_engine xelatex
+pandoc sap_business_plan_v1_0.md -o sap_business_plan_v1_0_from_markdown.pdf --pdf-engine=xelatex --resource-path=.
 ```
 
 ## QA
