@@ -24,13 +24,20 @@ header-includes:
   - \titleformat{\subsection}{\normalsize\bfseries}{\thesubsection.}{0.5em}{}
 ---
 
+# SAP Channel Partner & Services Venture
+
+**Business Plan v1.0 | Prepared by Sunder and Shaktivel**
+
 \begin{center}
-{\Large \textbf{SAP Channel Partner \& Services Venture}}\\[2pt]
-{\normalsize \textbf{Business Plan v1.0 | Prepared by Sunder and Shaktivel}}\\[6pt]
-{\small 3 active leads \quad 1 near-close opportunity \quad 4 revenue engines \quad 10-member visible team}
+\small
+\begin{tabular*}{0.92\textwidth}{@{\extracolsep{\fill}}cccc}
+3 active leads & 1 near-close opportunity & 4 revenue engines & 10-member visible team \\
+\end{tabular*}
 \end{center}
 
-# Executive Summary
+\vspace{0.6em}
+
+## Executive Summary
 
 This venture is proposed to build a focused SAP channel and services business around four established revenue streams - License, Implementation, AMC, and CRS / Change Requests. The business is not trying to invent a new market. It is entering a proven operating model that already exists in the SAP ecosystem and scaling it with disciplined execution.
 
