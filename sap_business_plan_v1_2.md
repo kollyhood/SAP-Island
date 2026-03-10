@@ -124,7 +124,7 @@ To address investor visibility on overheads, the operating-cost base is now stat
 
 | Expense anchor | Current grounding | Why it matters |
 | --- | --- | --- |
-| Office premises | Approx. 6,000 sq.ft identified premises | supports delivery readiness, customer meetings, and team visibility |
+| Office premises | Approx. 6,000 sq.ft identified premises at Tidel | supports delivery readiness, customer meetings, and team visibility |
 | Monthly rent | Approx. Rs. 2.54 lakh net per month | creates a real operating-cost anchor rather than a notional rent estimate |
 | Included scope | car parking, bike parking, and GST included | reduces ambiguity on occupancy assumptions |
 | Business promotion | digital outreach, events, collateral, and lead generation | supports funnel creation and market credibility |
