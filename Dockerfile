@@ -13,7 +13,7 @@ COPY . /app
 
 RUN chmod +x build_sap_business_plan_pdf.sh
 RUN ./build_sap_business_plan_pdf.sh && \
-    echo "PDF URL: https://${RAILWAY_PUBLIC_DOMAIN}/sap_business_plan_v1_0.pdf"
+    echo "PDF URL: https://${RAILWAY_PUBLIC_DOMAIN}/sap_business_plan_v1_2.pdf"
 
 EXPOSE 3000
 CMD ["python3", "-m", "http.server", "3000", "--directory", "/app/out"]
