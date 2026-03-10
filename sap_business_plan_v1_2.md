@@ -24,6 +24,11 @@ header-includes:
   - \titleformat{\subsection}{\normalsize\bfseries}{\thesubsection.}{0.5em}{}
 ---
 
+# SAP Channel Partner & Services Venture
+
+**Business Plan v1.0 | Prepared by Sunder and Shaktivel**
+
+
 \begin{center}
 3 active leads \quad 1 near-close opportunity \quad 4 revenue engines \quad 10-member visible team
 \end{center}
