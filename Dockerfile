@@ -12,5 +12,5 @@ COPY . /app
 RUN chmod +x build_sap_business_plan_pdf.sh
 RUN ./build_sap_business_plan_pdf.sh
 
-EXPOSE 8080
+EXPOSE 3000
 CMD ["python3", "-m", "http.server", "8080", "--directory", "/app/out"]
