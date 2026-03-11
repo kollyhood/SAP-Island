@@ -26,6 +26,7 @@ header-includes:
 
 
 # Business Plan  
+
 ## Standards-Led Internet Data Center Venture
 
 ## 1. Executive Summary
