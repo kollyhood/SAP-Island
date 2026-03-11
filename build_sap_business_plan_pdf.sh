@@ -3,9 +3,9 @@ set -euo pipefail
 
 mkdir -p out
 
-pandoc sap_business_plan_v1_2.md \
-  -o out/sap_business_plan_v1_2.pdf \
+pandoc idc_business_plan_master_v_1.md \
+  -o out/idc_business_plan_master_v_1.pdf \
   --pdf-engine=xelatex \
   --resource-path=.
 
-echo "Built out/sap_business_plan_v1_2.pdf"
+echo "Built out/idc_business_plan_master_v_1.pdf"
