@@ -1,3 +1,30 @@
+---
+title: ""
+author: ""
+date: ""
+fontsize: 10pt
+geometry: margin=0.7in
+linestretch: 1.02
+colorlinks: false
+header-includes:
+  - \usepackage{booktabs}
+  - \usepackage{longtable}
+  - \usepackage{array}
+  - \usepackage{fancyhdr}
+  - \usepackage{titlesec}
+  - \pagestyle{fancy}
+  - \fancyhf{}
+  - \fancyhead[L]{Standards-Led Internet Data Center Venture | Business Plan v1.0}
+  - \fancyhead[R]{Page \thepage}
+  - \setlength{\headheight}{14pt}
+  - \renewcommand{\arraystretch}{1.15}
+  - \titlespacing*{\section}{0pt}{8pt}{4pt}
+  - \titlespacing*{\subsection}{0pt}{6pt}{3pt}
+  - \titleformat{\section}{\normalsize\bfseries}{\thesection.}{0.5em}{}
+  - \titleformat{\subsection}{\normalsize\bfseries}{\thesubsection.}{0.5em}{}
+---
+
+
 # Business Plan  
 ## Standards-Led Internet Data Center Venture
 
